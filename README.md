@@ -35,5 +35,5 @@ Tested it with BTC/USD when it was aroung $58K
 
 
 # resources
-https://github.com/pyth-network/pyth-examples/tree/main/price_feeds/solana/send_usd
+https://docs.pyth.network/price-feeds/use-real-time-data/solana
 
