@@ -1,6 +1,7 @@
 # solpyth
 Integration of pyth with solana smart contracts  ,demonstrating  use of on chain price fetch
 
+This repo demonstrates fetching price on chain as well as using client side code to use that contract
 ```console
 cargo add pyth-solana-receiver-sdk
 anchor build
