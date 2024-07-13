@@ -10,6 +10,9 @@ anchor deploy
 Testing
 the client script is coded in tests folder
 ```console
+npm install rpc-websockets
+```
+```console
 anchor run test
 ```
 You can query any token price wirh just pyth feed id
