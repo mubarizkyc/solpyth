@@ -3,7 +3,7 @@ Integration of pyth with solana smart contracts  ,demonstrating  use of on chain
 
 This repo demonstrates fetching price on chain as well as using client side code to use that contract
 ```console
-git clone https://github.com/mubarizkyc/pyth-crosschain.git
+https://github.com/pyth-network/pyth-crosschain.git
 ```
 In src/Cargo.toml add
 ``` console
