@@ -30,7 +30,8 @@ https://pyth.network/developers/price-feed-ids
 Tested it with BTC/USD when it was aroung $58K
 ![Screenshot from 2024-07-13 16-44-10](https://github.com/user-attachments/assets/cc025fd2-a480-4c77-8562-a6d2e68c80b7)
 
-
+# Support
+If you benefitted from the project, show us some support by giving us a star ⭐. Open source is awesome!
 
 # resources
 https://docs.pyth.network/price-feeds/use-real-time-data/solana
